@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+
+    font-size: 15px;
+    line-height: 1.6;
+    color: #333;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.section {
+    padding: 20px;
+}
+
+.services {
+    display: flex;
+}
+
+.services__item {
+    flex: 1 1 0;
+    padding-left: 45px;
+    padding-right: 35px;
+}
+
+.services__item__ {
+    width: 10%;
+}
+
+.services__title {
+    margin-bottom: 10px;
+    text-align: center;
+    vertical-align: center;
+    font-size: 50px;
+    color: #333;
+    text-transform: uppercase;
+}
+img{
+    width:300px;
+}
+h1, h2{
+    text-align: center;
+    vertical-align: center;
+}
